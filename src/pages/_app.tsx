@@ -46,7 +46,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <QueryClientProvider client={queryClient}>
       <Provider session={pageProps.session}>
-        <Title suffix="Next Starter">{meta.metaTitle || meta.title}</Title>
+        <Title suffix="Defi Idea Funding">{meta.metaTitle || meta.title}</Title>
         <Description>{description}</Description>
         <Meta />
         <Layout {...layoutProps}>
