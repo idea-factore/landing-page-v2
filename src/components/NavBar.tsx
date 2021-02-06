@@ -86,7 +86,7 @@ export default function NavBar() {
                 <div className="flex space-x-4">
                   <span className="px-3 py-2 text-sm font-medium text-gray-300 rounded-md"> Idea Factory </span>
                   <a
-                    href="#"
+                    href="https://idea-factory-app-oxvyhh8bb.vercel.app/pools"
                     className="px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-md"
                   >
                     Dashboard
