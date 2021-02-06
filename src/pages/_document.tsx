@@ -32,13 +32,13 @@ class MyDocument extends Document {
             rel="icon"
             type="image/png"
             sizes="32x32"
-            href="/favicon-32x32.png"
+            href="/3e15bceff0d3d48cda0040168ad997e6_Ti8_icon.ico"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="16x16"
-            href="/favicon-16x16.png"
+            href="/3e15bceff0d3d48cda0040168ad997e6_Ti8_icon.ico"
           />
           <link rel="manifest" href="/manifest.json" />
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#6366f1" />
