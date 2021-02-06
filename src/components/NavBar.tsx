@@ -65,8 +65,8 @@ export default function NavBar() {
                   <a>
                     <img
                       className="block w-auto h-8 lg:hidden"
-                      src="/logo-small.svg"
-                      alt="Workflow"
+                      src="/3e15bceff0d3d48cda0040168ad997e6.png"
+                      alt="Idea Factory"
                     />
                     <span className="sr-only">Logo</span>
                   </a>
@@ -75,8 +75,8 @@ export default function NavBar() {
                   <a>
                     <img
                       className="hidden w-auto h-8 lg:block"
-                      src="/logo-large.svg"
-                      alt="Workflow"
+                      src="/3e15bceff0d3d48cda0040168ad997e6.png"
+                      alt="Idea Factory"
                     />
                     <span className="sr-only">Logo</span>
                   </a>
@@ -84,6 +84,7 @@ export default function NavBar() {
               </div>
               <div className="hidden sm:block sm:ml-6">
                 <div className="flex space-x-4">
+                  <span> Idea Factory </span>
                   <a
                     href="#"
                     className="px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-md"
