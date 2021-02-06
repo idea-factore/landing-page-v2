@@ -107,7 +107,8 @@ function HomeLayout({ children }: { children: ReactNode }) {
 
 Home.layoutProps = {
   meta: {
-    title: 'Home',
+    title: 'Idea Factory',
+    description: 'Decentralized Funding Pools for Ideas
   },
   Layout: HomeLayout,
 }
