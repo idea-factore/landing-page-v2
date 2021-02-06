@@ -84,7 +84,7 @@ export default function NavBar() {
               </div>
               <div className="hidden sm:block sm:ml-6">
                 <div className="flex space-x-4">
-                  <span> Idea Factory </span>
+                  <span className="px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-md"> Idea Factory </span>
                   <a
                     href="#"
                     className="px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-md"
